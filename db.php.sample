@@ -1,0 +1,4 @@
+<?php
+
+\Auth\Configuration::$password_hash_function = 'md5';
+\Bingo\Configuration::addDbConnection('hostname','dbname','username','password');
