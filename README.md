@@ -1,4 +1,4 @@
-# diary
+# Diary
 Simple apllication for making notes with images
 
 ## Install
