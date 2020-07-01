@@ -3,7 +3,8 @@ Simple apllication for making notes with images
 
 ## Install
 
-- rename ```db.php.sample``` into ```db.php``` file with own db credentials. 
+- rename ```db.php.sample``` into ```db.php``` file with own db credentials.
+- rename ```config.php.sample``` into ```config.php``` file. 
 
 - add Bingo to project root folder. **Warning!** You must have a Bingo CMS to use this project
 - set own mail credentials in ```config.php``` to be able to sync with `mail.ru` cloud.
