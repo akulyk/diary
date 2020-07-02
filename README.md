@@ -3,6 +3,12 @@ Simple apllication for making diaries with images
 
 ![awesome image toolbar demo](images/images_view.gif)
 
+First toolbar to set first image size.
+
+Second toolbar to set second image size.
+
+Third toolbar to set number of rows to be shawn
+
 ## Install
 
 - rename ```db.php.sample``` into ```db.php``` file with own db credentials.
