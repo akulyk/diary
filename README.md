@@ -1,7 +1,7 @@
 # Diary
 Simple apllication for making diaries with images
 
-[awesome image toolbar demo](images/images_view.gif)
+![awesome image toolbar demo](images/images_view.gif)
 
 ## Install
 
