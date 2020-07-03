@@ -1,11 +1,9 @@
 # Diary
 Simple apllication for making diaries with images
 
-First toolbar to set first image size.
-
-Second toolbar to set second image size.
-
-Third toolbar to set number of rows to be shawn
+First toolbar to set first image size.  
+Second toolbar to set second image size.  
+Third toolbar to set number of rows to be shawn.
 
 ![awesome image toolbar demo](images/images_view.gif)
 
