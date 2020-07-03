@@ -1,6 +1,8 @@
 # Diary
 Simple apllication for making diaries with images
 
+The application can make backups into `cloud.mail.ru`
+
 First toolbar to set first image size.  
 Second toolbar to set second image size.  
 Third toolbar to set number of rows to be shawn.
