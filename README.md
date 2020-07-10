@@ -1,4 +1,7 @@
 # Diary
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
 Simple apllication for making diaries with images
 
 The application can make backups into `cloud.mail.ru`
@@ -25,3 +28,7 @@ You cannot register to enter frontend, but have to create a user in admin area.
 To do this go to `/admin/app/user-list` and click on `Create new` button in top right corner.
 
 Now you can login with created user
+
+### License
+
+Plugin is [MIT licensed](./LICENSE).
